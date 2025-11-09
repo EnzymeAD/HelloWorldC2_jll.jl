@@ -1,18 +1,18 @@
-[[HelloWorldC]]
+[[HelloWorldC2]]
 arch = "i686"
-git-tree-sha1 = "f6cb5a80c1e825f1012ed8517d2347e0e6d10642"
+git-tree-sha1 = "987df6ceac1563dfda71f36feda97c4f2c9ad52c"
 libc = "glibc"
 os = "linux"
 
-    [[HelloWorldC.download]]
-    sha256 = "9a66021c0e72111866223d318ad9dc411b8b6183d7d8d42a3c402dd8c4c2ffae"
-    url = "https://github.com/EnzymeAD/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.4.1+1/HelloWorldC.v1.4.1.i686-linux-gnu.tar.xz"
-[[HelloWorldC]]
+    [[HelloWorldC2.download]]
+    sha256 = "a2d55a18caa3c7c16d9372b438e8dfbfb91577af3950c174dd9e0815b575c76b"
+    url = "https://github.com/EnzymeAD/HelloWorldC2_jll.jl/releases/download/HelloWorldC2-v1.4.1+0/HelloWorldC2.v1.4.1.i686-linux-gnu.tar.xz"
+[[HelloWorldC2]]
 arch = "x86_64"
-git-tree-sha1 = "c8aa41cab66118db2387696eba33856344935ce3"
+git-tree-sha1 = "22c00fd8908a6e2d727687709393787d8f499c8f"
 libc = "glibc"
 os = "linux"
 
-    [[HelloWorldC.download]]
-    sha256 = "866db1134e54dbe30eea9ed0897320b5ef6c1684c659d013bfde7ded9759d48e"
-    url = "https://github.com/EnzymeAD/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.4.1+1/HelloWorldC.v1.4.1.x86_64-linux-gnu.tar.xz"
+    [[HelloWorldC2.download]]
+    sha256 = "9fa01c84a26654dce9cafed9aeefbb8d5165cfd2b56949be6ea91f5795fc2ceb"
+    url = "https://github.com/EnzymeAD/HelloWorldC2_jll.jl/releases/download/HelloWorldC2-v1.4.1+0/HelloWorldC2.v1.4.1.x86_64-linux-gnu.tar.xz"
